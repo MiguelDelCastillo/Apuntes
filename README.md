@@ -12,6 +12,6 @@ apuntes git
 
 Pagina de codigo
 
-CODEP
+<a href = "https://codepen.io/">CODEPen</a>
 
-<a href = "https://devdocs.io/"> DevDoc's<a>
+<a href = "https://devdocs.io/"> DevDoc's</a>
