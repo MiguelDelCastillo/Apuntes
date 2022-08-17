@@ -10,3 +10,6 @@ apuntes git
 
 <p>git config --global user.email miguel@h.com</p>
 
+Pagina de codigo
+
+CODEP
